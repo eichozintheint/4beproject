@@ -1,0 +1,45 @@
+[
+
+{"major":
+[
+{"Civil":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]},
+
+{"Archi":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]},
+
+{"EP":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]},
+
+
+{"EC":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]},
+
+
+{"MP":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]},
+
+{"IT":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[
+
+
+{
+    "name":"Ma Ei Cho Zin Theint",
+    "roll":"4BE-IT-1",
+    "phone":"1234567890",
+    "address":"Mandalay",
+    "id":1
+},
+{
+    "name":"Ma May Thet Mon",
+    "roll":"4BE-IT-7",
+    "phone":"0987654321",
+    "address":"Shan State",
+    "id":7
+}
+
+
+]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]}
+
+
+{"MC":[{"1BE":[{"First_term":[]},{"Second_term":[]}]},{"2BE":[{"First_term":[]},{"Second_term":[]}]},{"3BE":[{"First_term":[]},{"Second_term":[]}]},{"4BE":[{"First_term":[]},{"Second_term":[]}]},{"5BE":[{"First_term":[]},{"Second_term":[]}]},{"6BE":[{"First_term":[]},{"Second_term":[]}]},{"ME":[{"First_term":[]},{"Second_term":[]}]}]}
+
+
+]
+}
+               
+]        

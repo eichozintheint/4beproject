@@ -1,0 +1,37 @@
+[   
+    {
+        "year":"1BE",
+        "index":0,
+        "value":10000
+    },
+    {
+        "year":"2BE",
+        "index":1,
+        "value":20000
+    },
+    {
+        "year":"3BE",
+        "index":2,
+        "value":30000
+    },
+    {
+        "year":"4BE",
+        "index":3,
+        "value":40000
+    },
+    {
+        "year":"5BE",
+        "index":4,
+        "value":50000
+    }, 
+    {
+        "year":"6BE",
+        "index":5,
+        "value":60000
+    },
+    {
+        "year":"ME",
+        "index":6,
+        "value":70000
+    },           
+]

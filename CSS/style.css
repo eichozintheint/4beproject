@@ -1,0 +1,128 @@
+:root{
+    --white: #f7f7e6;
+    --green: #137f85;
+    /*--green: #3c998d;*/
+}
+
+body{
+    height: 100vh;
+    background-image: url("../img/bg2.png");
+    font-family: sans-serif;
+
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+
+    margin: 0;
+    overflow: hidden;
+}
+
+/**************************Nav Bar**************************/
+.nav-bar{
+    width: 100%;
+    height: 90px;
+    background-color: rgba(33,139,127,0.5);
+    /*background-color: transparent;*/
+
+    position: relative;
+}
+
+.left-logo,.right-logo{
+    width: 70px;
+    height: 80px;
+}
+
+.left-logo{
+    position: absolute;
+    top: 5px;
+    left: 30px;
+}
+
+.right-logo{
+    position: absolute;
+    top: 5px;
+    right: 30px;
+}
+
+.nav-bar img{
+    width: 100%;
+    height: 100%;
+}
+
+.title{
+    /*background-color: #f4f4f4;*/
+    color: #f8f8f8;
+    text-align: center;
+
+    position: absolute;
+    top: 10px;
+    left: 350px;
+}
+
+.title h1,.title h2{
+    margin: 0;
+}
+
+.title h1{
+    margin-bottom: 5px;
+}
+
+
+/******************************Login form****************************/
+.login-form{
+    width: 230px;
+    height: 230px;
+    background-color: var(--white);
+    border-radius: 10px;
+    padding: 30px 42px 50px 42px;
+
+    position: absolute;
+    top: 150px;
+    left: 50%;
+
+    transform: translateX(-50%);
+}
+
+.login-form > h2{
+    /*text-transform: uppercase;*/
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.username,.password{
+    margin-top: 20px;
+}
+
+.form-control{
+    width: 100%;
+    background-color: transparent;
+    box-sizing: border-box;
+    margin-top: 5px;
+
+    border: 1.5px solid #000;
+    border-width: 0 0 1.5px 0;
+}
+
+.form-control:focus{
+    outline: none;
+}
+
+.level{
+    background-color: var(--white);
+    width: 100%;
+    padding: 4px;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+
+.submit{
+    width: 100%;
+    background-color: var(--green);
+    color: #dfeced;
+    font-weight: 600;
+    border: 0;
+    border-radius: 2px;
+    padding: 8px;
+    margin-top: 20px;
+}

@@ -1,0 +1,14 @@
+[
+
+    {
+        "semester":"First_term",
+        "index":0,
+        "value":1000
+    },
+    {
+        "semester":"Second_term",
+        "index":1,
+        "value":2000
+    }
+
+]

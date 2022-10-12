@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Engineering Mathematics",
+        "code":"IT-32006",
+        "major_index":5,
+        "year_index":2,
+        "semester_index":1
+        
+    },
+
+    {
+        "name":"English",
+        "code":"IT-32011",
+        "major_index":5,
+        "year_index":2,
+        "semester_index":1
+    }
+
+]
